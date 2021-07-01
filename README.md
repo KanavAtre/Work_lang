@@ -1,11 +1,4 @@
-# AgeCalculator
-A software that asks the user for his/her age in terms of year, month and date. 
-It calculates and displays the exact age of the user, accurate upto months. 
-For ex. 9 Years, 11 Months.
-
-
-All the GUI is done with the help of Tkinter library.
-
-this library comes pre-installed with Python
-
+added y axis movement
+added sql connectivity
+a bug- when I press the start button, the user_data func ion line 292 does not get called, and the window automatically quits
 
